@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Música</string>
+    <string name="menuItemSalir">Salir</string>
+    <string name="ad_salir_titulo">Salir del programa</string>
+    <string name="ad_salir_mensaje">¿Quieres salir del programa?</string>
+    <string name="ad_salir_si">Si</string>
+    <string name="ad_salir_no">No</string>
+    <string name="btnPlay">PLAY</string>
+    <string name="btnPause">PAUSE</string>
+    <string name="btnStop">STOP</string>
+</resources>
